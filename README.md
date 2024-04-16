@@ -1,2 +1,5 @@
 # Apple-Clone-using-HTML
-Simple Netflix clone using HTML and CSS only
+
+Simple Apple clone using HTML
+
+Live Demo: https://apple-clone-html-iamumerjz.netlify.app/
